@@ -45,7 +45,7 @@ https://github.com/acmauth/MobileDevelopment/blob/main/presentations/Mobile%20De
 **Updated Currency Converter :** https://github.com/acmauth/MobileDevelopment-CurrencyConverter
 
 #### Meeting 4 - 03/03/2021 #### 
--Expenses Tracker App: https://github.com/acmauth/MobileDevelopment-ExpensesTracker
+- Expenses Tracker App: https://github.com/acmauth/MobileDevelopment-ExpensesTracker
     - Started the implementation of an expenses management application as a team
     - The application  will track your monthly/weekly expenses and other statistics
 
