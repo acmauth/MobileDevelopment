@@ -49,4 +49,7 @@ https://github.com/acmauth/MobileDevelopment/blob/main/presentations/Mobile%20De
     - Started the implementation of an expenses management application as a team
     - The application  will track your monthly/weekly expenses and other statistics
 
-
+#### Meeting 5 - 11/03/2021 #### 
+- Expenses Tracker App: https://github.com/acmauth/MobileDevelopment-ExpensesTracker
+    - Finished with most of the basic Front-End .xml files
+    - Further assigned tasks to each other
